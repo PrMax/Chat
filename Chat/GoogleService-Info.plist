@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>235115153620-i4s7u856m76cdvkooecqldcvecges7pe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235115153620-i4s7u856m76cdvkooecqldcvecges7pe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCiIG-CW9-DjV218a5PNmxmHxX8wLMRbc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235115153620</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.marathon.student.Chat</string>
+	<key>PROJECT_ID</key>
+	<string>chat1-25872</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chat1-25872.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235115153620:ios:7cd32f1b2ac25b27601341</string>
+</dict>
+</plist>
